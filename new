@@ -301,14 +301,16 @@ http://luckonline.eu:8080/hDZZN2SGW/7132932570/1065
 #EXTINF:-1 tvg-ID="StarSportsSelect1.in" tvg-name="S_TAR SPORTS SELECT HD1" tvg-logo="http://faizuliptv.myonlineportal.org/logo/osn_sports3_hd.png" group-title="SPORTS",S_TAR SPORTS SELECT HD1
 http://luckonline.eu:8080/hDZZN2SGW/7132932570/1125
 #EXTINF:-1 tvg-ID="StarSportsSelect2.in" tvg-name="S_tar s_ports select HD2" tvg-logo="" group-title="SPORTS",S_tar s_ports select HD2
-http://luckonline.eu:8080/hDZZN2SGW/7132932570/1315#EXTINF:-1 tvg-ID="Star World HD" tvg-name="Star world" tvg-logo="" group-title="ENGLISH",Star world
+http://luckonline.eu:8080/hDZZN2SGW/7132932570/1315
+#EXTINF:-1 tvg-ID="Star World HD" tvg-name="Star world" tvg-logo="" group-title="ENGLISH",Star world
 http://luckonline.eu:8080/hDZZN2SGW/7132932570/480
 #EXTINF:-1 tvg-ID="Star Movies HD" tvg-name="STAR MOVIES HD" tvg-logo="http://faizuliptv.myonlineportal.org/logo/star_movies_hk_hd_in.png" group-title="ENGLISH",STAR MOVIES HD
 http://luckonline.eu:8080/hDZZN2SGW/7132932570/1169
 #EXTINF:-1 tvg-ID="SonyPix.in" tvg-name="sony pix HD" tvg-logo="http://faizuliptv.myonlineportal.org/logo/sony_pix_in.png" group-title="ENGLISH",sony pix HD
 http://luckonline.eu:8080/hDZZN2SGW/7132932570/1062
 #EXTINF:-1 tvg-ID="Sky Atlantic +1" tvg-name="Sky atlantic +1" tvg-logo="http://faizuliptv.myonlineportal.org/logo/sky_uk_atlantic_plus1.png" group-title="ENGLISH",Sky atlantic +1
-http://luckonline.eu:8080/hDZZN2SGW/7132932570/1433#EXTINF:-1 tvg-ID="Star Movies" tvg-name="Star movies india" tvg-logo="http://faizuliptv.myonlineportal.org/logo/star_movies_hk_hd_in.png" group-title="ENGLISH",Star movies india
+http://luckonline.eu:8080/hDZZN2SGW/7132932570/1433
+#EXTINF:-1 tvg-ID="Star Movies" tvg-name="Star movies india" tvg-logo="http://faizuliptv.myonlineportal.org/logo/star_movies_hk_hd_in.png" group-title="ENGLISH",Star movies india
 http://luckonline.eu:8080/hDZZN2SGW/7132932570/745
 #EXTINF:-1 tvg-ID="FOX HD" tvg-name="FOX HD UK" tvg-logo="" group-title="ENGLISH",FOX HD UK
 http://luckonline.eu:8080/hDZZN2SGW/7132932570/1174
@@ -345,6 +347,8 @@ http://luckonline.eu:8080/hDZZN2SGW/7132932570/1631
 #EXTINF:-1 tvg-ID="TLC" tvg-name="TLC" tvg-logo="http://faizuliptv.myonlineportal.org/logo/tlc_uk.png" group-title="ENGLISH",TLC
 http://luckonline.eu:8080/hDZZN2SGW/7132932570/1033
 #EXTINF:-1 tvg-ID="" tvg-name="EN:zee living" tvg-logo="http://faizuliptv.myonlineportal.org/logo/zee_living_in_asia.png" group-title="ENGLISH",EN:zee living
-http://luckonline.eu:8080/hDZZN2SGW/7132932570/493#EXTINF:-1 tvg-ID="AXN.in" tvg-name="AXN HD" tvg-logo="http://faizuliptv.myonlineportal.org/logo/axn_global_hd_asia.png" group-title="ENGLISH",AXN HD
-http://luckonline.eu:8080/hDZZN2SGW/7132932570/1170#EXTINF:-1 tvg-ID="" tvg-name="VIEWER CHANNEL 1 SONG" tvg-logo="http://fortuneiptv.eu/fortune.png" group-title="VIEWER CHANNELS",VIEWER CHANNEL 1 SONG
+http://luckonline.eu:8080/hDZZN2SGW/7132932570/493
+#EXTINF:-1 tvg-ID="AXN.in" tvg-name="AXN HD" tvg-logo="http://faizuliptv.myonlineportal.org/logo/axn_global_hd_asia.png" group-title="ENGLISH",AXN HD
+http://luckonline.eu:8080/hDZZN2SGW/7132932570/1170
+#EXTINF:-1 tvg-ID="" tvg-name="VIEWER CHANNEL 1 SONG" tvg-logo="http://fortuneiptv.eu/fortune.png" group-title="VIEWER CHANNELS",VIEWER CHANNEL 1 SONG
 http://luckonline.eu:8080/hDZZN2SGW/7132932570/1681
