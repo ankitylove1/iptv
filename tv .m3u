@@ -13,5 +13,6 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:0, group-title="English",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:0, group-title="English",Zee Cafe HD
-http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8#EXTINF:-1,Zeta TV HD 720p
+http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zeta TV HD 720p
 https://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
