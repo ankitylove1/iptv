@@ -1,0 +1,38 @@
+#EXTINF:0, group-title="Hindi",& Pictures HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://inkblingdesigns.files.wordpress.com/2015/07/endpage.jpg" group-title="INDIA",Zoom
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
+#EXTINF:0, group-title="English",& Flix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",& Prive HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0, group-title="English",Fashion TV Midnite
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:0, group-title="English",Fashion TV Paris
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:0, group-title="English",HD Fashion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:0, group-title="English",Zee Cafe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,Zeta TV HD 720p
+https://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
+#EXTINF:-1,IN : STAR SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/LSJJBI4OaR/JOHuOBwnR9/31932
+#EXTINF:-1,IN : WILLOW CRICKET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/LSJJBI4OaR/JOHuOBwnR9/31991
+#EXTINF:-1,IN: MTV India
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/LSJJBI4OaR/JOHuOBwnR9/31857
+#EXTINF:-1,IN: SONY ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/LSJJBI4OaR/JOHuOBwnR9/32050
+#EXTINF:-1,IN: sony pix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/LSJJBI4OaR/JOHuOBwnR9/31897
+#EXTINF:-1,IN: STAR SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/LSJJBI4OaR/JOHuOBwnR9/31930
+#EXTINF:-1,IN: Star world HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/LSJJBI4OaR/JOHuOBwnR9/31895
+#EXTINF:-1,IN: TEN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/LSJJBI4OaR/JOHuOBwnR9/32061
+#EXTINF:-1,IN: TEN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/LSJJBI4OaR/JOHuOBwnR9/31842
+#EXTINF:-1,IN:VIP STAR MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://i1.mikro.work:12345/LSJJBI4OaR/JOHuOBwnR9/32032
